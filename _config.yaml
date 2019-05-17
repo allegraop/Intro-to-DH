@@ -1,0 +1,10 @@
+# Site settings
+
+title: Project Site
+github_username: allegraop
+description: >
+ This is a practice site.
+ 
+ # Build settings
+ markdown: kramdown
+ theme: minima
